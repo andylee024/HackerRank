@@ -8,3 +8,5 @@ https://www.hackerrank.com/challenges/tree-huffman-decoding
 https://www.hackerrank.com/challenges/bfsshortreach
 3. Prim's (MST): Special Subtree 
 https://www.hackerrank.com/challenges/primsmstsub
+4. Dijkstra: Shortest Reach 2 
+https://www.hackerrank.com/challenges/dijkstrashortreach
