@@ -11,6 +11,8 @@ https://www.hackerrank.com/challenges/bfsshortreach
 https://www.hackerrank.com/challenges/primsmstsub
 4. Dijkstra: Shortest Reach 2 
 https://www.hackerrank.com/challenges/dijkstrashortreach
+5. Journey to the Moon
+https://www.hackerrank.com/challenges/journey-to-the-moon
 
 ### Sorting
 1. Sherlock and Pairs
