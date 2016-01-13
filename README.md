@@ -26,3 +26,7 @@ https://www.hackerrank.com/challenges/tree-preorder-traversal
 https://www.hackerrank.com/challenges/tree-postorder-traversal
 3. Tree: Inorder Traversal
 https://www.hackerrank.com/challenges/tree-inorder-traversal
+
+### Stacks
+1. Balanced Parantheses 
+https://www.hackerrank.com/challenges/balanced-parentheses
