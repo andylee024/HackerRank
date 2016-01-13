@@ -17,3 +17,12 @@ https://www.hackerrank.com/challenges/journey-to-the-moon
 ### Sorting
 1. Sherlock and Pairs
 https://www.hackerrank.com/challenges/sherlock-and-pairs
+
+## Data Structures
+### Trees
+1. Tree: Preorder Traversal 
+https://www.hackerrank.com/challenges/tree-preorder-traversal
+2. Tree: Postorder Traversal
+https://www.hackerrank.com/challenges/tree-postorder-traversal
+3. Tree: Inorder Traversal
+https://www.hackerrank.com/challenges/tree-inorder-traversal
