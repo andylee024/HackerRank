@@ -30,3 +30,7 @@ https://www.hackerrank.com/challenges/tree-inorder-traversal
 ### Stacks
 1. Balanced Parantheses 
 https://www.hackerrank.com/challenges/balanced-parentheses
+
+### Linked Lists
+1. Merge two sorted linked lists
+https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists
