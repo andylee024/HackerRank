@@ -34,3 +34,7 @@ https://www.hackerrank.com/challenges/balanced-parentheses
 ### Linked Lists
 1. Merge two sorted linked lists
 https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists
+2. Insert Node into Sorted Doubly Linked List
+https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/submissions/code/16501929
+
+
