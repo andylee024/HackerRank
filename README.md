@@ -18,6 +18,9 @@ https://www.hackerrank.com/challenges/journey-to-the-moon
 1. Sherlock and Pairs
 https://www.hackerrank.com/challenges/sherlock-and-pairs
 
+### Dynamic Programming
+1. Grid Walking (HARD!)
+https://www.hackerrank.com/challenges/grid-walking
 ## Data Structures
 ### Trees
 1. Tree: Preorder Traversal 
