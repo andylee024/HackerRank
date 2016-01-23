@@ -25,7 +25,6 @@ https://www.hackerrank.com/challenges/grid-walking
 ### Strings
 1. Sherlock and Anagrams 
 https://www.hackerrank.com/challenges/sherlock-and-anagrams
-
 2. Two Strings
 https://www.hackerrank.com/challenges/two-strings
 
