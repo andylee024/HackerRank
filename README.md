@@ -21,7 +21,16 @@ https://www.hackerrank.com/challenges/sherlock-and-pairs
 ### Dynamic Programming
 1. Grid Walking (HARD!)
 https://www.hackerrank.com/challenges/grid-walking
+
+### Strings
+1. Sherlock and Anagrams 
+https://www.hackerrank.com/challenges/sherlock-and-anagrams
+
+2. Two Strings
+https://www.hackerrank.com/challenges/two-strings
+
 ## Data Structures
+
 ### Trees
 1. Tree: Preorder Traversal 
 https://www.hackerrank.com/challenges/tree-preorder-traversal
@@ -29,6 +38,8 @@ https://www.hackerrank.com/challenges/tree-preorder-traversal
 https://www.hackerrank.com/challenges/tree-postorder-traversal
 3. Tree: Inorder Traversal
 https://www.hackerrank.com/challenges/tree-inorder-traversal
+4. Binary Search Tree : Lowest Common Ancestor
+https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor
 
 ### Stacks
 1. Balanced Parantheses 
@@ -39,5 +50,6 @@ https://www.hackerrank.com/challenges/balanced-parentheses
 https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists
 2. Insert Node into Sorted Doubly Linked List
 https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/submissions/code/16501929
-
+3. Reverse a doubly linked list
+https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list
 
